@@ -4,7 +4,9 @@ public class Main{
 //        f.printFibonacci(9);
 //        Perfect p=new Perfect();
 //        p.isPerfectNumber(28);
-        Prime p=new Prime();
-        p.isPrime(99);
+//        Prime p=new Prime();
+//        p.isPrime(99);
+        Reverse r=new Reverse();
+        r.reverseNumber(3456);
     }
 }
