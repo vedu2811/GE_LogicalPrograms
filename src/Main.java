@@ -6,7 +6,9 @@ public class Main{
 //        p.isPerfectNumber(28);
 //        Prime p=new Prime();
 //        p.isPrime(99);
-        Reverse r=new Reverse();
-        r.reverseNumber(3456);
+//        Reverse r=new Reverse();
+//        r.reverseNumber(3456);
+        Coupon c=new Coupon();
+        c.CouponNumber(5);
     }
 }
